@@ -24,6 +24,7 @@ http://www.shape-master.com/
 ###Devices:
 | Device Name | Num Required | Mouser Part # | Manufacturer Part # 
 |ATMega32u4 | 1 | [556-ATMEGA32U4-AU](http://www.mouser.com/ProductDetail/Atmel/ATMEGA32U4-AU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1C4u5a33SlKLw%3d) | ATMEGA32U4-AU  |
+|--------------------------|:---------------:|------------:|
 |MCP1825S - 1 - [579-MCP1825S-3302EDB](http://www.mouser.com/ProductDetail/Microchip-Technology/MCP1825S-3302E-DB/?qs=sGAEpiMZZMsGz1a6aV8DcJ7KfjtCj7XdhLgwEYhyq%2fs%3d) - MCP1825S-3302E/DB  
 |Resistor 22Ohm - 2 - [667-ERA-W33J220X](http://www.mouser.com/ProductDetail/Panasonic/ERA-W33J220X/?qs=%2fha2pyFaduiamcDwRD0o%252bdwFWFrZf0vWh4X5c5%2fM5m6XuQxFBDeebA%3d%3d)  
 |Resistor 1000Ohm - 1 - [667-ERJ-1GEJ102C](http://www.mouser.com/ProductDetail/Panasonic/ERJ-1GEJ102C/?qs=%2fha2pyFadujWqMGonbcVXWj1%252b8hcrvDh5me5Qs6YnvHyb0HgpWaKEQ%3d%3d)  
