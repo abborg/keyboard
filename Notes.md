@@ -23,8 +23,11 @@ PCB:
 Devices (Part # from Mouser):
 ATMega32u4
 MCP1825S - 1 - 579-MCP1825S-3302EDB
+
 Resistor 22Ohm - 2 - 667-ERA-W33J220X
+
 Resistor 1000Ohm - 1 - 667-ERJ-1GEJ102C
+
 Resistor 100Ohm - 667-ERJ-1GEJ101C
 Crystal 16MHz
 Capacitor 10pF - 2
