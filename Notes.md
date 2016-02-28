@@ -1,4 +1,4 @@
-Using 6061 aluminum 100mm x 273mm x 12mm bar for case
+Using 6061 aluminum 100mm x 273mm x 12mm bar for case  
 Using 6061 aluminum 100mm x 273mm x 1.5mm sheet for plate
 
 ##Metal:
