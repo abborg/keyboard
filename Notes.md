@@ -7,17 +7,17 @@ MetalsDepot offers 0.063 inch thick 6061 Aluminum sheet with custom width of 4" 
 MetalsDepot total cost (w/ shipping) $63.39
 
 ###Fabrication:
-options to consider
-http://www.thetekmill.com/
-http://www.wagner-machine.com/
-http://www.shape-master.com/
+options to consider  
+http://www.thetekmill.com/  
+http://www.wagner-machine.com/  
+http://www.shape-master.com/  
 
 ##Plate:
 
 ##Case:
-1mm radius outer top edge
-6mm radius inner top edge
-45° angle on bottom edge
+1mm radius outer top edge  
+6mm radius inner top edge  
+45° angle on bottom edge  
 
 ##PCB:
 ###Devices (Part # from Mouser):
