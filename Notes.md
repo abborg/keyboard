@@ -37,6 +37,7 @@ http://www.shape-master.com/
 | Diode | 68 | [750-CDSU4148](http://www.mouser.com/ProductDetail/Comchip-Technology/CDSU4148/?qs=sGAEpiMZZMtoHjESLttvkuxjOdB35mGjgFl9dZWSp6Q%3d) | CDSU4148 |
 | LED | 2 |  [828-OVLAW4CB7](http://www.mouser.com/ProductDetail/Optek-TT-Electronics/OVLAW4CB7/?qs=sGAEpiMZZMtmwHDZQCdlqe2pukWsWvBZP3osEY%252b4qVU%3d) | OVLAW4CB7 |
 | Switch | 1 | [506-2-1437565-8](http://www.mouser.com/ProductDetail/TE-Connectivity-Alcoswitch/2-1437565-8/?qs=sGAEpiMZZMvxtGF7dlGNpmdDR%2fLbgCKmx2KOy1eWjG0%3d) | 2-1437565-8 |
+| Mini USB-B Connector | 1 | [649-10033526N3212MLF](http://www.mouser.com/ProductDetail/FCI/10033526-N3212MLF/?qs=sGAEpiMZZMulM8LPOQ%252byk74feZXni60aLcclzrksPbU%3d) | 10033526-N3212MLF |
 
 ###Fabrication:
 [4pcb.com: $33 each boards](www.4pcb.com)
