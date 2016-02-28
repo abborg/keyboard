@@ -14,6 +14,7 @@ http://www.wagner-machine.com/
 http://www.shape-master.com/  
 
 ##Plate:
+[Keyboard Layout Editor link](http://www.keyboard-layout-editor.com/#/gists/b67145701f86c79b1c43)
 
 ##Case:
 1mm radius outer top edge  
