@@ -21,18 +21,18 @@ http://www.shape-master.com/
 
 ##PCB:
 ###Devices (Part # from Mouser):
-ATMega32u4  
+ATMega32u4 - 1 - 556-ATMEGA32U4-AU  
 MCP1825S - 1 - 579-MCP1825S-3302EDB  
 Resistor 22Ohm - 2 - 667-ERA-W33J220X  
 Resistor 1000Ohm - 1 - 667-ERJ-1GEJ102C  
-Resistor 100Ohm - 667-ERJ-1GEJ101C  
-Crystal 16MHz  
-Capacitor 10pF - 2  
-Capacitor 1uF - 3  
-Capacitor 0.1uF - 4  
-Cherry Mx Clear - 68  
-Diode - 68  
-LED - 2  
+Resistor 100Ohm - 2 - 667-ERJ-1GEJ101C  
+Crystal 16MHz - 1 - 581-CX3225SA16D0PST  
+Capacitor 10pF - 2 - 581-06031A100FAT2A  
+Capacitor 1uF - 3 - 81-GRJ188R71E105KE1D  
+Capacitor 0.1uF - 4 - 81-GRJ188R71H104KE1D  
+Cherry Mx Clear - 68 - 540-MX1A-C1NW  
+Diode - 68 - 750-CDSU4148  
+LED - 2 - 828-OVLAW4CB7  
 
 ###Fabrication:
 4pcb.com $33 each boards
