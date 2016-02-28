@@ -36,6 +36,7 @@ http://www.shape-master.com/
 | Cherry Mx Clear | 68 | [540-MX1A-C1NW](http://www.mouser.com/ProductDetail/CHERRY/MX1A-C1NW/?qs=%2fha2pyFadugHshS5LFUaw1jeiiKUr3%2flrPMQiMCh%2fs95fKtwTfP8jQ%3d%3d) | MX1A-C1NW |
 | Diode | 68 | [750-CDSU4148](http://www.mouser.com/ProductDetail/Comchip-Technology/CDSU4148/?qs=sGAEpiMZZMtoHjESLttvkuxjOdB35mGjgFl9dZWSp6Q%3d) | CDSU4148 |
 | LED | 2 |  [828-OVLAW4CB7](http://www.mouser.com/ProductDetail/Optek-TT-Electronics/OVLAW4CB7/?qs=sGAEpiMZZMtmwHDZQCdlqe2pukWsWvBZP3osEY%252b4qVU%3d) | OVLAW4CB7 |
+| Switch | 1 | [506-2-1437565-8](http://www.mouser.com/ProductDetail/TE-Connectivity-Alcoswitch/2-1437565-8/?qs=sGAEpiMZZMvxtGF7dlGNpmdDR%2fLbgCKmx2KOy1eWjG0%3d) | 2-1437565-8 |
 
 ###Fabrication:
 [4pcb.com: $33 each boards](www.4pcb.com)
