@@ -36,7 +36,7 @@ http://www.shape-master.com/
 | Capacitor 1uF | 3 | [81-GRJ188R71E105KE1D](http://www.mouser.com/ProductDetail/Murata/GRJ188R71E105KE11D/?qs=%2fha2pyFadujXbmObmbMNWGVKi%252bmpL1Y6f0Y1MC6HHG%2fHzG25TK2zTx1jVxOpAbXL)| GRJ188R71E105KE11D |
 | Capacitor 0.1uF | 4 | [81-GRJ188R71H104KE1D](http://www.mouser.com/ProductDetail/Murata/GRJ188R71H104KE11D/?qs=%2fha2pyFadujXbmObmbMNWImOdQ04TVo77xVWezGkIzF%252bTvMbvtQi9vsb7pG01xtl)| GRJ188R71H104KE11D |
 | Cherry Mx Clear | 68 | [540-MX1A-C1NW](http://www.mouser.com/ProductDetail/CHERRY/MX1A-C1NW/?qs=%2fha2pyFadugHshS5LFUaw1jeiiKUr3%2flrPMQiMCh%2fs95fKtwTfP8jQ%3d%3d) | MX1A-C1NW |
-| Diode | 68 | [750-CDSU4148](http://www.mouser.com/ProductDetail/Comchip-Technology/CDSU4148/?qs=sGAEpiMZZMtoHjESLttvkuxjOdB35mGjgFl9dZWSp6Q%3d) | CDSU4148 |
+| Diode | 68 | [512-1N4148](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4148/?qs=sGAEpiMZZMudZehw8RjeZWbu6z6oTQTL) | 1N4148 |
 | LED | 2 |  [828-OVLAW4CB7](http://www.mouser.com/ProductDetail/Optek-TT-Electronics/OVLAW4CB7/?qs=sGAEpiMZZMtmwHDZQCdlqe2pukWsWvBZP3osEY%252b4qVU%3d) | OVLAW4CB7 |
 | Switch | 1 | [506-2-1437565-8](http://www.mouser.com/ProductDetail/TE-Connectivity-Alcoswitch/2-1437565-8/?qs=sGAEpiMZZMvxtGF7dlGNpmdDR%2fLbgCKmx2KOy1eWjG0%3d) | 2-1437565-8 |
 | Mini USB-B Connector | 1 | [649-10033526N3212MLF](http://www.mouser.com/ProductDetail/FCI/10033526-N3212MLF/?qs=sGAEpiMZZMulM8LPOQ%252byk74feZXni60aLcclzrksPbU%3d) | 10033526-N3212MLF |
