@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name footprints)(type Legacy)(uri C:\Users\andrew\Downloads\KiCAD-Keyboard-Tutorial-master\footprints.mod)(options "")(descr ""))
+  (lib (name footprints.pretty)(type KiCad)(uri "$(KIPRJMOD)\\footprints.pretty")(options "")(descr ""))
 )
