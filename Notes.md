@@ -21,8 +21,8 @@ http://www.shape-master.com/
 275mm x 102.5mm x 13mm (l x w x h)
 1mm radius outer top edge  
 1mm radius inner top edge  
-13mm x 1mm insets for rubber feet in corners (d x h)
-4.25mm x 8mm hole in center of back edge
+13mm x 1mm insets for rubber feet in corners (d x h)  
+4.25mm x 8mm hole in center of back edge  
 45° angle on bottom edge  
 
 ##Cover:
