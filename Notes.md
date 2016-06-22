@@ -26,10 +26,10 @@ http://www.shape-master.com/
 45° angle on bottom edge  
 
 ##Cover:
-275mm x 102.5mm x 19mm (l x w x h)
-1mm radius outer bottom edge
-1mm radius inner bottom edge
-45° angle on top edge
+275mm x 102.5mm x 19mm (l x w x h)  
+1mm radius outer bottom edge  
+1mm radius inner bottom edge  
+45° angle on top edge  
 
 ##PCB:
 ###Devices:
