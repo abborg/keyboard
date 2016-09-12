@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name .pretty)(type KiCad)(uri "$(KIPRJMOD)\\.pretty")(options "")(descr ""))
+  (lib (name footprints)(type Legacy)(uri "$(KIPRJMOD)\\lib\\footprints.mod")(options "")(descr ""))
 )
