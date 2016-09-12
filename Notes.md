@@ -18,9 +18,18 @@ http://www.shape-master.com/
 [Keyboard Plate CAD Drawer](http://builder.swillkb.com/)  
 
 ##Case:
+275mm x 102.5mm x 13mm (l x w x h)
 1mm radius outer top edge  
-6mm radius inner top edge  
+1mm radius inner top edge  
+13mm x 1mm insets for rubber feet in corners (d x h)  
+4.25mm x 8mm hole in center of back edge  
 45° angle on bottom edge  
+
+##Cover:
+275mm x 102.5mm x 19mm (l x w x h)  
+1mm radius outer bottom edge  
+1mm radius inner bottom edge  
+45° angle on top edge  
 
 ##PCB:
 ###Devices:
