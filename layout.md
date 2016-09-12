@@ -25,7 +25,7 @@
 ["Ctrl","Alt","Super","Fn","Del","Bksp",{a:7},"","",{a:4},"Space","&larr;","&darr;","&uarr;","&rarr;","Caps Lock"]
 ```
 
-###[Qwerty Grid](http://www.keyboard-layout-editor.com/#/gists/bce03da974b8195c0e16)
+###[Qwerty Grid](http://www.keyboard-layout-editor.com/#/gists/328b5f2f2a083147eaa4ffbb5ecdb029)
 ```
 [{a:7},"",{a:4},"Esc","(\n0","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8",")\n9","|\n\\",{a:7},""],
 ["",{a:4},"{\n[\n\n\nF1","Q\n\n\n\nF2","W\n\n\n\nF3","E\n\n\n\nF4","R\n\n\n\nF5","T\n\n\n\nF6","Y\n\n\n\nF7","U\n\n\n\nF8","I\n\n\n\nF9","O\n\n\n\nF10","P\n\n\n\nF11","}\n]\n\n\nF12",{a:7},""],
