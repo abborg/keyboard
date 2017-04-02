@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:components
 LIBS:keyboard-cache
 EELAYER 25 0
 EELAYER END
@@ -516,7 +517,7 @@ $Sheet
 S 8050 1750 550  2100
 U 58D5B17B
 F0 "matrix" 60
-F1 "matrix.sch" 60
+F1 "matrix-rev3.sch" 60
 F2 "row4" T L 8050 2250 60 
 F3 "row1" T L 8050 1950 60 
 F4 "row2" T L 8050 2050 60 
@@ -788,7 +789,7 @@ $Sheet
 S 2900 5000 550  600 
 U 58D595A8
 F0 "led" 60
-F1 "led.sch" 60
+F1 "led-rev3.sch" 60
 F2 "~reset~" T L 2900 5500 60 
 F3 "mosi" T L 2900 5200 60 
 F4 "miso" T L 2900 5100 60 
