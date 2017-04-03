@@ -47,8 +47,8 @@ http://www.shape-master.com/
 | Capacitor 0.1uF | 6 | [77-VJ0805Y104JXXAC](http://www.mouser.com/ProductDetail/Vishay/VJ0805Y104JXXAC/?qs=%2fha2pyFaduhF2nQ94KIYvbr7HECSzlgHhUvG0Weymxx3QDZmpJGQdw%3d%3d)| VJ0805Y104JXXAC |
 | Cherry Mx Clear | 68 | [540-MX1A-C1NW](http://www.mouser.com/ProductDetail/CHERRY/MX1A-C1NW/?qs=%2fha2pyFaduhq8Eet0S7vJZRQrJ5ARolZRjRGrDPgpGI%3d) | MX1A-C1NW |
 | Diode | 68 | [78-1N4148W-E3-18](http://www.mouser.com/ProductDetail/Vishay-Semiconductors/1N4148W-E3-18/?qs=sGAEpiMZZMtoHjESLttvkjs26zymxl2FU28Iozw68oc%3d) | 1N4148W-E3-18 |
-| LED | 68 |  [828-OVLAW4CB7](http://www.mouser.com/ProductDetail/TT-Electronics/OVLAW4CB7/?qs=%2fha2pyFadujzdKCSYOCF%2fb%2f4YkU%2fwT0oK9SyE8dg0Io%3d) | OVLAW4CB7 |
-| LED | 1 |  [630-HSMG-C170](http://www.mouser.com/ProductDetail/Broadcom-Limited/HSMG-C170/?qs=%2fha2pyFadui7GuUNwhHOtxOwms9WbCS22xPYZi6eFLk%3d) | HSMG-C170 |
+| Keyswitch LED | 68 |  [828-OVLAW4CB7](http://www.mouser.com/ProductDetail/TT-Electronics/OVLAW4CB7/?qs=%2fha2pyFadujzdKCSYOCF%2fb%2f4YkU%2fwT0oK9SyE8dg0Io%3d) | OVLAW4CB7 |
+| Power LED | 1 |  [630-HSMG-C170](http://www.mouser.com/ProductDetail/Broadcom-Limited/HSMG-C170/?qs=%2fha2pyFadui7GuUNwhHOtxOwms9WbCS22xPYZi6eFLk%3d) | HSMG-C170 |
 | Switch | 1 | [642-DTSMW67T](http://www.mouser.com/ProductDetail/Apem/ADTSMW67TV/?qs=sGAEpiMZZMsgGjVA3toVBOI7nILP73PyWCtsFyAcyoI%3d) | ADTSMW67TV |
 | Mini USB-B Connector | 1 | [538-67503-1020](http://www.mouser.com/ProductDetail/Molex/67503-1020/?qs=sGAEpiMZZMtDa8bhoiaN7Dp%2fkqK5DKnm) | 67503-1020 |
 
