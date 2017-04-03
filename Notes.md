@@ -41,7 +41,7 @@ http://www.shape-master.com/
 |Resistor 100 Ohm | 5 | [71-CRCW0805-100-E3](http://www.mouser.com/ProductDetail/Vishay/CRCW0805100RFKEA/?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GxPcNG3UnvYk%3d)| CRCW0805100RFKEA |
 |Resistor 10 kOhm | 2 | [71-CRCW080510K0FKEB](http://www.mouser.com/ProductDetail/Vishay/CRCW080510K0FKEB/?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GcSqJrx4YWs0%3d)| CRCW080510K0FKEB |
 |Resistor 140 Ohm | 1 | [71-CRCW0603-140-E3](http://www.mouser.com/ProductDetail/Vishay/CRCW0603140RFKEA/?qs=sGAEpiMZZMujMHSoaAZeGU0lxA%2fvZNWc)| CRCW0603140RFKEA |
-|Crystal 16MHz | 1 |[774-403C11E16M0](http://www.mouser.com/ProductDetail/CTS/403C11E16M00000/?qs=%2fha2pyFaduhnqK73TLfDQFnxQAc6%252baaO2JdnQzOnGxoo93NC0Mj7hA%3d%3d) | 403C11E16M00000 |
+|Crystal 16MHz | 1 |[581-CX3225CA16000PPQ](http://www.mouser.com/ProductDetail/AVX-Kyocera/CX3225CA16000P0HPQCC/?qs=sGAEpiMZZMsBj6bBr9Q9aRNS0CcLLTSyZlvbI%2fPCI4mpH5fCNbkIqA%3d%3d) | CX3225CA16000P0HPQCC |
 |Capacitor 22pF |2 | [77-VJ0805A220GXXCBC](http://www.mouser.com/ProductDetail/Vishay/VJ0805A220GXXCW1BC/?qs=%2fha2pyFaduiCUhz83QhWpqT%2fmresq4HlYMFL5amR%2fF1128TmWEho%2fA%3d%3d)| VJ0805A220GXXCW1BC |
 | Capacitor 1uF | 2 | [77-VJ0805Y105JXQTBC](http://www.mouser.com/ProductDetail/Vishay/VJ0805Y105JXQTW1BC/?qs=%2fha2pyFaduhF2nQ94KIYve%2fl4CxhPlh2%252b3KyKHC0dmBpNgOuXX7Vxw%3d%3d)| VJ0805Y105JXQTW1BC |
 | Capacitor 0.1uF | 6 | [77-VJ0805Y104JXXAC](http://www.mouser.com/ProductDetail/Vishay/VJ0805Y104JXXAC/?qs=%2fha2pyFaduhF2nQ94KIYvbr7HECSzlgHhUvG0Weymxx3QDZmpJGQdw%3d%3d)| VJ0805Y104JXXAC |
