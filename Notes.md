@@ -35,7 +35,7 @@ http://www.shape-master.com/
 ### Devices:
 | Device Name | Num Required | Mouser Part # | Manufacturer Part # |
 |------------ |:------------:|:-------------:|--------------------:|
-| ATMega32u4 | 1 | [556-ATMEGA32U4-AU](http://www.mouser.com/ProductDetail/Atmel/ATMEGA32U4-AU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1C4u5a33SlKLw%3d) | ATMEGA32U4-AU  |
+| ATMega32u4 | 1 | [556-ATMEGA32U4-AU](http://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U4-AU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1C4u5a33SlKLw%3d) | ATMEGA32U4-AU  |
 | ATTiny88 | 1 | [556-ATTINY88-AU](http://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATTINY88-AU/?qs=sGAEpiMZZMtVoztFdqDXO4cl4WCMEsnA) | ATTINY88-AU  |
 |Resistor 22 Ohm | 2 | [71-CRCW0805J-22](http://www.mouser.com/ProductDetail/Vishay/CRCW080522R0JNTA/?qs=%2fha2pyFaduhkDOWkOJXWlDMmLdeZbXdGjK4cegWWE6MkURhQYa1h7w%3d%3d)| CRCW080522R0JNTABC |
 |Resistor 100 Ohm | 5 | [71-CRCW0805-100-E3](http://www.mouser.com/ProductDetail/Vishay/CRCW0805100RFKEA/?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GxPcNG3UnvYk%3d)| CRCW0805100RFKEA |
