@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:components
 LIBS:keyboard-cache
+LIBS:keyboard-rev3-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1900,7 +1901,7 @@ Wire Wire Line
 	2450 5700 2450 5850
 Connection ~ 3200 5850
 Wire Wire Line
-	3200 5850 3200 5700
+	3200 5700 3200 6850
 Connection ~ 3950 5850
 Wire Wire Line
 	3950 5850 3950 5700
@@ -1930,7 +1931,7 @@ Wire Wire Line
 Wire Wire Line
 	10700 5850 10700 5700
 Wire Wire Line
-	11450 5850 11450 5700
+	11450 5700 11450 6800
 Wire Wire Line
 	12200 5850 12200 5700
 Wire Wire Line
@@ -2051,7 +2052,7 @@ Wire Wire Line
 Wire Wire Line
 	11300 6300 11300 6200
 Wire Wire Line
-	12050 5700 12050 5600
+	12050 5600 12050 6800
 Wire Wire Line
 	11300 5700 11300 5600
 Wire Wire Line
@@ -2091,7 +2092,7 @@ Wire Wire Line
 Wire Wire Line
 	3050 5700 3050 5600
 Wire Wire Line
-	3800 5700 3800 5600
+	3800 5600 3800 6850
 Wire Wire Line
 	4550 5700 4550 5600
 Wire Wire Line
@@ -2290,4 +2291,28 @@ $EndComp
 Connection ~ 6950 6950
 Connection ~ 7550 6950
 Connection ~ 9050 6300
+$Comp
+L SW_PUSH S1:12/13
+U 1 1 58E17B47
+P 11750 6800
+F 0 "S1:12/13" H 11900 6910 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 6720 50  0000 C CNN
+F 2 "" H 11750 6800 50  0000 C CNN
+F 3 "" H 11750 6800 50  0000 C CNN
+	1    11750 6800
+	1    0    0    -1  
+$EndComp
+Connection ~ 12050 5700
+$Comp
+L SW_PUSH S1:0/1
+U 1 1 58E1C383
+P 3500 6850
+F 0 "S1:0/1" H 3650 6960 50  0000 C CNN
+F 1 "SW_PUSH" H 3500 6770 50  0000 C CNN
+F 2 "" H 3500 6850 50  0000 C CNN
+F 3 "" H 3500 6850 50  0000 C CNN
+	1    3500 6850
+	1    0    0    -1  
+$EndComp
+Connection ~ 3800 5700
 $EndSCHEMATC

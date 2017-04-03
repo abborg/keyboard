@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:components
 LIBS:keyboard-cache
+LIBS:keyboard-rev3-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268

@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:components
 LIBS:keyboard-cache
+LIBS:keyboard-rev3-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1158,7 +1159,7 @@ Connection ~ 4300 3700
 Wire Wire Line
 	4300 3700 4300 3900
 Wire Wire Line
-	1900 1950 1900 3900
+	1900 1950 1900 4100
 Connection ~ 1900 3100
 Connection ~ 2300 2900
 Wire Wire Line
@@ -1256,7 +1257,7 @@ Wire Wire Line
 	10250 3700 10250 3900
 Connection ~ 2300 3300
 Wire Wire Line
-	2300 3500 2300 3300
+	2300 3300 2300 4100
 Connection ~ 2950 3300
 Wire Wire Line
 	2950 3300 2950 3500
@@ -1292,7 +1293,7 @@ Wire Wire Line
 	9600 3300 9600 3500
 Connection ~ 10250 3300
 Wire Wire Line
-	10250 3300 10250 3500
+	10250 3300 10250 4200
 Wire Wire Line
 	10900 3300 10900 3500
 Connection ~ 9850 2300
@@ -1430,7 +1431,7 @@ Connection ~ 10250 2100
 Wire Wire Line
 	10250 2100 10250 2300
 Wire Wire Line
-	9850 1950 9850 3900
+	9850 1950 9850 4200
 Wire Wire Line
 	9200 1950 9200 3900
 Wire Wire Line
@@ -1447,4 +1448,30 @@ Wire Wire Line
 	2550 1950 2550 3900
 Wire Wire Line
 	5900 1950 5900 4200
+$Comp
+L LED L1:0/1
+U 1 1 58E2781F
+P 2100 4100
+F 0 "L1:0/1" H 2100 4200 50  0000 C CNN
+F 1 "LED" H 2100 4000 50  0000 C CNN
+F 2 "" H 2100 4100 50  0000 C CNN
+F 3 "" H 2100 4100 50  0000 C CNN
+	1    2100 4100
+	-1   0    0    1   
+$EndComp
+Connection ~ 1900 3900
+Connection ~ 2300 3500
+$Comp
+L LED L1:12/13
+U 1 1 58E284DC
+P 10050 4200
+F 0 "L1:12/13" H 10050 4300 50  0000 C CNN
+F 1 "LED" H 10050 4100 50  0000 C CNN
+F 2 "" H 10050 4200 50  0000 C CNN
+F 3 "" H 10050 4200 50  0000 C CNN
+	1    10050 4200
+	-1   0    0    1   
+$EndComp
+Connection ~ 9850 3900
+Connection ~ 10250 3500
 $EndSCHEMATC
