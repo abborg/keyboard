@@ -59,6 +59,6 @@ PCB will support grid or MIT-esque layouts and standard placement of capslock LE
 
 ## Miscellaneous
 ### USB cable:
-[/u/90N1NE's Cord Form](https://docs.google.com/forms/d/1O8-y3vcuR8QClX1kB-gxhwCaVJ4b8tqBf4mBuyMltoc)
+[/u/90N1NE's Cord Form](https://docs.google.com/forms/d/1O8-y3vcuR8QClX1kB-gxhwCaVJ4b8tqBf4mBuyMltoc)  
 [Pexon's Store](http://pexonpcs.co.uk/)  
 [/u/jchan94's Cord Form](https://docs.google.com/forms/d/1i3O6ZZ9YgS6CADAT-xIyotbfbr2Xl6MgCU8oeTNEtNQ/viewform)  
